@@ -1,11 +1,6 @@
 <h1>Admin Dashboard</h1>
 
-<h3>Number of Categories: <%= @category_count %></h3>
-
-<h3><% @categories.each do |category| %>
-  <li><%= link_to category.name, category %></li>
-  <% end %>
-</h3>
+<h3>Number of Categories: <%= link_to @category, admin_categories_path %></h3>
 
 <h3>Number of Products: <%= link_to @product, admin_products_path %></h3>
 
