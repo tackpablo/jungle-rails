@@ -5,6 +5,9 @@
 
 // App
 @import "products";
+@import "about";
+@import "login";
+@import "signup";
 
 // Global
 body {
@@ -14,4 +17,9 @@ body {
 // Bootstrap adjustments
 form.button_to {
   display: inline;
+}
+
+// All title tags
+h1 {
+  font-size: 3em;
 }
