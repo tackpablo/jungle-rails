@@ -27,49 +27,49 @@ Many features of this project were already in place. I was responsible for under
 
 ### Home Page
 
-!["Home Page"]()
+!["Home Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Home%20Page.png)
 
 ### About Us Page
 
-!["About Us Page"]()
+!["About Us Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/About%20Us%20Page.png)
 
 ### Category Example Page (Apparel)
 
-!["Apparel Category"]()
+!["Apparel Category"](<https://github.com/tackpablo/jungle-rails/blob/master/public/images/Category%20Example%20(Apparel)%20Page.png>)
 
 ### Item Sold Out
 
-!["Item Sold Out"]()
+!["Item Sold Out"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Item%20Sold%20Out.png)
 
 ### Signup Page
 
-!["Signup Page"]()
+!["Signup Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Signup%20Page.png)
 
 ### Login Page
 
-!["Login Page"]()
+!["Login Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Login%20Page.png)
 
 ### Cart Page
 
-!["Cart Page"]()
+!["Cart Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Cart%20Page.png)
 
 ### Order Fulfilled Page
 
-!["Order Fulfilled Page"]()
+!["Order Fulfilled Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Order%20Fulfilled%20Page.png)
 
 ## Admin
 
 ### Dashboard Page
 
-!["Dashboard Page"]()
+!["Dashboard Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Admin%20Dashboard%20Page.png)
 
 ### Products Page
 
-!["Products Page"]()
+!["Products Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Admin%20Products%20Page.png)
 
 ### Categories Page
 
-!["Categories Page"]()
+!["Categories Page"](https://github.com/tackpablo/jungle-rails/blob/master/public/images/Admin%20Categories%20Page.png)
 
 ## Additional Steps for Apple M1 Machines
 
