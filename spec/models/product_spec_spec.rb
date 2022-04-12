@@ -8,7 +8,6 @@ RSpec.describe Product, type: :model do
       @category = Category.new(name: 'Electronics')
       @category.save
     end
-    # validation tests/examples here
     it 'creates a product with all four fields set' do
       @product = @category.products.create!(name: 'Mouse', price: 25, quantity: 2, category: @category)
 

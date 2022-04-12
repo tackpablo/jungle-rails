@@ -2,7 +2,6 @@ require 'rails_helper'
 
 RSpec.feature "AddToCarts", type: :feature do
   
-   # SETUP
    before :each do
     @category = Category.create! name: 'Apparel'
   
@@ -18,7 +17,6 @@ RSpec.feature "AddToCarts", type: :feature do
   end
 
   scenario "Can add items to cart and updates cart" do
-    # ACT
     visit root_path
 
     expect(page).to have_content 'My Cart (0)'
@@ -26,9 +24,6 @@ RSpec.feature "AddToCarts", type: :feature do
     first('.product').click_button('Add')
 
     expect(page).to have_content 'My Cart (1)'
-    
-    # # DEBUG / VERIFY
-    # save_screenshot
 
   end
 

@@ -7,7 +7,6 @@ RSpec.feature "UserLogins", type: :feature do
   end
 
   scenario "Can login with correct credentials" do
-    # ACT
     visit login_path
 
     expect(page).to have_content 'Email'
@@ -19,7 +18,7 @@ RSpec.feature "UserLogins", type: :feature do
       click_button('Submit')
     end
 
-    expect(page).to have_content 'Signed in as Tom'
+    expect(page).to have_content 'Signed in as test@test.com'
 
   end
 
